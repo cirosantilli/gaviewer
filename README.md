@@ -1,6 +1,6 @@
 # GAViewer
 
-Geometric Algebra Viewer <http://www.geometricalgebra.net/gaviewer_download.html>
+GAViewer geometric algebra viewer with slightly better packaging and a README <http://www.geometricalgebra.net/gaviewer_download.html>
 
 Tested in Ubuntu 17.04:
 
@@ -21,3 +21,7 @@ Inside the program:
 Inside the program console:
 
     DEMOc2ga()
+
+Tutorials under:
+
+    examples/*.pdf
