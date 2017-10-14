@@ -1,0 +1,8 @@
+*.a
+*.o
+.deps
+Makefile
+config.log
+config.status
+src/console/codegen/codegen
+src/gaviewer
